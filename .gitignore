@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Loveable - prevent from being tracked
+.loveable
+.loveable/
+.loveable.json
+.loveable.yaml
+.loveable.yml
+*loveable*
+node_modules/.loveable/
