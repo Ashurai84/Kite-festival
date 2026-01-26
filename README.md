@@ -2,6 +2,8 @@
 
 A beautiful, immersive web experience celebrating the festival of kites with stunning visual effects, smooth animations, and an engaging narrative journey.
 
+[**Live Demo**](https://festival-flow-nu.vercel.app/)
+
 ## ✨ Features
 
 - **Interactive Scene Navigation**: Explore multiple scenes including Opening, Lohri, Sankranti, Future, and Reflection
